@@ -1,0 +1,87 @@
+# PAvehicleinspections.com (PAVI) – General Knowledge File
+
+## 1. Business Snapshot
+
+| Item | Detail |
+| --- | --- |
+| **Legal Entity** | Division of **TPO LLC** (100% owned by Ryan Flynn) |
+| **Launch Year** | 2025 |
+| **Business Model (Launch)** | Free, statewide online directory of PennDOT-licensed inspection stations; revenue-free at launch, with advertising & premium listings planned later |
+| **Industry / Niche** | Automotive services information — Pennsylvania annual safety & emissions inspections |
+| **Vision** | Become *“the single, trusted source of truth for everything related to PA vehicle inspections.”* |
+| **Mission** | **[Formal mission statement pending]** |
+| **Core Values** | Honesty • Unbiased guidance • Trustworthiness |
+| **Current Metrics** | **[Metrics TBD post-launch]** |
+
+---
+
+## 2. Target Customers (Primary ICP)
+
+Pennsylvania drivers who must complete an annual safety and (where required) emissions inspection:
+
+- Age mostly under 50; statewide urban, suburban & rural coverage; own ≥ 1 personal vehicle
+- Mobile-first, time-constrained, cost- and safety-aware; distrust pushy repair shops
+- Pain points: unclear rules, fear of upselling, forgetting due dates, finding a trustworthy station
+
+*Secondary future ICP*: station owners/operators once listing-claim and paid features roll out.
+
+---
+
+## 3. Core Offering (Phase 1 Launch)
+
+| Capability | What Users Get | Key Data Sources / Tech |
+| --- | --- | --- |
+| **Free Search & Directory** | Filterable list (~5k stations) by ZIP, inspection type, or “Near Me.” | PennDOT master list; Google Maps API enrichment |
+| **Listing Detail Pages** | Clean, SEO-optimized pages with hours, ratings, photos, AI summaries. | Google Maps + in-house AI |
+| **Business Listing Claim** | Station owners can verify & manage data (free during rollout). | Internal admin + owner workflow |
+
+**Planned Enhancements (Post-Launch)**
+
+- Email reminder system tied to sticker expiration
+- Optional user-suggested edits (tentative)
+- Monetization via ads, premium placement & sponsored listings
+
+---
+
+## 4. Unique Differentiators
+
+- **Comprehensive statewide coverage** on day one (bulk PennDOT import)
+- **User-centric, mobile-first UX** focused on speed & clarity
+- **AI-enhanced listings** that surface the most relevant info quickly
+- **Transparent, non-upsell environment** to counter driver distrust
+
+---
+
+## 5. Proof Points & Traction
+
+*Pre-launch phase – no public metrics yet.* Initial asset build includes:
+
+- Full import & enrichment of ~5,000 inspection stations.
+- SEO-ready pages for each station.
+- Internal roadmap for reminders, content marketing, and monetization.
+
+---
+
+## 6. Strategic Outlook (Next 12 Months)
+
+1. **Launch Directory (Q3 2025)**
+  
+  - Complete data import, enrichment, and site QA.
+2. **SEO Growth Engine (Q3–Q4 2025)**
+  
+  - Publish informative guides (e.g., “PA Inspection Checklist”), optimize local listing pages, and secure backlinks.
+3. **Social Presence & Community (Q4 2025)**
+  
+  - Establish concise social channels (TikTok/IG Reels, FB Groups) focused on reminders, tips, and trust-building stories.
+4. **Monetization Foundations (Q1 2026)**
+  
+  - Pilot ad placements and research paid listing tiers while maintaining free user experience.
+
+---
+
+## 7. Reference Documents
+
+- **Ideal Customer Profile (ICP)** – detailed demographics, psychographics, and pain points.
+- **Service Offering Definition** – full feature list, operational model, UX specs, and monetization roadmap.
+
+Stakeholders and AI agents should consult those documents for deeper detail beyond this high-level brief.
